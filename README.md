@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="mrtechbot.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="MRTECH-BOT" src="https://img.shields.io/badge/༆ᴍʀ-ᴛᴇᴄʜ_ʙᴏᴛ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHINJUMWOL" src="https://img.shields.io/badge/༆ᴍʀ-ᴛᴇᴄʜ_ʙᴏᴛ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/mhdta23"><img title="Author" src="https://img.shields.io/badge/Author-MuhammedTa-mhdta23/mrtechbot?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ajnas"><img title="Author" src="https://img.shields.io/badge/Author-MuhammedTa-mhdta23/mrtechbot?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/mhdta23">MUHAMMED T.A</a> to make it public
+Project created by <a href="https://github.com/ajnas">AJNAS.K</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/mhdta23">MUHAMMED T.A</a> to make
 ----
 
   <p align="center">
-  <a href="https://github.com/mhdta23/MR-TECH-BOT">
+  <a href="https://github.com/ajnas/chinjumwol">
     <img src="https://img.shields.io/github/repo-size/mhdta23/mr-tech-bot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/mhdta23/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhdta23?color=f7df1e&style=flat-square"></a>
