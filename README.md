@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/mhdta23">MUHAMMED T.A</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MhdTa/Mrtechbotwhatsasenadup)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mhdta23/MR-TECH-BOTv2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajnas/chinjumwol)
      </div>
 <br>
 <br >
@@ -50,8 +50,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/mhdta23/MR-TECH-BOT
-$ cd MR-TECH-BOTv2
+$ git clone https://github.com/mhdta23/chinjumwol
+$ cd chinjumwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -67,7 +67,7 @@ Set up
 $ apt update
 $ apt upgrade
 $ pkg install git
-$ git clone https://github.com/mhdta23/MR-TECH-BOT
+$ git clone https://github.com/mhdta23/chinjumwol
 $ ls
 $ cd MR-TECH-BOTv2
 $ npm i
